@@ -8,3 +8,8 @@
  Create Cluster in Kubernetec and Deploy
 
 c. To print rating of a movie.  
+
+
+
+
+no need of maven
